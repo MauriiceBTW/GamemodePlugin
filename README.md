@@ -1,2 +1,2 @@
 # GamemodePlugin
-Der Source Code zu dem dazu gehörigen Tutorial für Plugins in Minecraft (Folge 2).
+Der Source Code zu dem dazu gehörigen Tutorial für Plugins in Minecraft (Folge 3).
