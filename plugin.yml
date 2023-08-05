@@ -1,0 +1,8 @@
+name: GamemodePlugin
+version: '${project.version}'
+main: me.maurice.gamemodeplugin.GamemodePlugin
+api-version: '1.20'
+
+commands: 
+  gm:
+    description: Changes the gamemode of a player
